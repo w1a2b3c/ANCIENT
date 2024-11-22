@@ -1,91 +1,53 @@
-[![Play Ancient Beast](https://img.shields.io/badge/play-Ancient%20Beast-red.svg)](https://AncientBeast.com)
-[![Setup Gitpod](https://img.shields.io/badge/setup-Gitpod-blue)](https://gitpod.io/#https://github.com/FreezingMoon/AncientBeast)
-[![Code Triagers Badge](https://www.codetriage.com/freezingmoon/ancientbeast/badges/users.svg)](https://codetriage.com/freezingmoon/ancientbeast)
-[![OpenCollective Badge](https://opencollective.com/ancientbeast/tiers/badge.svg)](https://opencollective.com/AncientBeast)
-[![Discord](https://img.shields.io/discord/154868963132571649?logo=discord&label=Discord&color=5865F2)](https://discord.gg/CtqBsnF85z)
+Ancient Beast 是一款回合制策略独立游戏，玩家在线对战，收集各种生物，并利用它们击败对手。本项目的设计目标是易于学习、乐趣十足且难以精通。希望您会喜欢！
+
+📜 背景故事
+游戏的背景设定在一个反乌托邦的未来，随着先进3D打印技术的应用，人类的力量得到极大提升。世界分裂为七个派系，分别对应七宗罪（贪婪、嫉妒、暴食、情欲、傲慢、懒惰和愤怒），为资源、土地和统治地位而互相争斗。游戏中不靠运气，您是否有足够的技巧来生存？
+
+💻 硬件要求
+游戏设计轻便，能够在大多数设备上运行，具有适应性优化。您可以通过鼠标、键盘、触屏甚至即将支持的游戏手柄、语音指令、AR/VR眼镜和脑波头带等输入方式游玩。
+
+💈 瓶颈
+当前游戏的主要瓶颈是它的创造者 Dread Knight（因此开发决策将逐渐过渡到 Freezing Moon DAO）。游戏目前为预发布原型，缺少一些重要功能（目前），如在线多人模式、AI对手和单位动画。随着时间的推移，通过更多的支持和开发，这些问题将被解决，游戏将有望面向主流玩家。
+
+🔮 开发路线图
+我们正在努力开发下一个版本 - 0.5，代号为 Chimera。目标包括：
+
+3 个新可玩生物
+3 个新史诗配乐
+新的战斗场地
+改进部分技能
+平衡生物属性
+增加动作音效
+远程攻击的精灵图
+众多界面调整
+用户体验优化
+各类 Bug 修复
+部分代码重构
+提高开发工作流程
+更多项目背景和文档
+🏮 贡献
+您可以通过点击右上角的 ★ 标记帮助本项目，还可以将其置顶到您的个人资料中。以下是项目随时间增长的受欢迎程度图表，和一些主要竞争项目的比较：
+
+⭐ 星标历史
 
 
-![1vs1 Dark Forest](https://raw.github.com/FreezingMoon/AncientBeast-Website/master/multimedia/screenshots/v0.3%20Dark%20Forest.jpg)
-**"We all die. The goal isn't to live forever. The goal is to create something that will."** _Chuck Palahniuk_
+如需设置本地副本以供使用，请阅读我们的仓库文件 "CONTRIBUTING.md"。
+或通过以下按钮在浏览器中直接进入开发环境：
+还有更多帮助项目的方式，查看 "贡献指南" 来协助项目发展！
 
-### 🎓 Intro
+<a href="https://github.com/FreezingMoon/AncientBeast/graphs/contributors"><img src="https://opencollective.com/ancientbeast/contributors.svg?width=838&button=false" alt="贡献者"></a>
 
-**Ancient Beast** is a turn based strategy indie game project played online against other people featuring a wide variety of creatures to acquire, putting them to use in order to defeat your opponents. This project was carefully designed to be easy to learn, fun to play and hard to master. We hope you'll enjoy it!
+🪙 赞助商
+如希望品牌在游戏中展示，成为 赞助商 来大力支持本游戏项目！
 
-### 📜 Lore
-The game takes place in a dystopian future, where people have excelled in power thanks to the use of technology, specifically advanced 3d printers. The world is split into 7 factions, based off the seven deadly sins (Avarice, Envy, Gluttony, Lust, Pride, Sloth, Wrath), fighting each other for resources, land and supremacy. This is not a chance based game; are you skilled enough to survive?
+<a href="https://opencollective.com/ancientbeast/contribute/sponsor-8022"><img src="https://opencollective.com/ancientbeast/tiers/sponsor.svg?avatarHeight=70&width=838" alt="支持者"></a>
 
-### 💻 Hardware
-The game is designed to be lightweight and run on most devices out there as it adjusts on the fly thanks to various optimizations and it will be playable using pretty much any input method you can think of. So far you can play it using mouse, keyboard, touchscreens and pretty soon with gamepads, voice commands, AR/VR glasses and even brainwave headbands.
+🛡️ 支持者
+您可以 成为支持者，每月为本项目的发展提供资金支持。
 
-### 💈 Bottlenecks
-Besides the main bottleneck, it's creator, [Dread Knight](https://github.com/DreadKnight) (hence why development decisions will eventually transition to [Freezing Moon DAO](https://FreezingMoon.org)), the game is currently pre-alpha prototype and lacks some important features (for now), such as online multiplayer, bots and unit animations. Given time, with enough love and support all those major issues will be addressed and the game will be able to reach mainstream audiences.
+<a href="https://opencollective.com/ancientbeast/contribute/backer-8021"><img src="https://opencollective.com/ancientbeast/tiers/backer.svg?avatarHeight=50&width=838" alt="支持者"></a>
 
-### 🔮 [Roadmap](https://github.com/FreezingMoon/AncientBeast/milestone/5)
+🩹 助力者
+每月捐助一点，成为 助力者 ，为项目提供帮助。
 
-We're working hard on the next version - 0.5, codenamed `Chimera`.
-What we're aiming for are the following:
-
-- 3 new playable creatures
-- 3 new epic sound tracks
-- one new combat location
-- revamping some abilities
-- balancing creatures stats
-- sound effects for actions
-- sprites for ranged attacks
-- many user interface tweaks
-- lots of usability enhancements
-- a ton of bug fixes all around
-- partial code base restructuring
-- development workflow improvements
-- more project lore & documentation
-
-### 🏮 [Contribute](CONTRIBUTING.md#readme)
-
-You can help out the project by hitting that ★ from the [upper right corner](#) & you can also pin it to your profile.  
-Here's a chart showing the project's growing popularity over time compared to some of the main competition:
-
-## ⭐ Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=FreezingMoon/AncientBeast,vcmi/vcmi,wesnoth/wesnoth,0ad/0ad,warzone2100/warzone2100,freeciv/freeciv-web&type=Timeline)](https://star-history.com/#FreezingMoon/AncientBeast&vcmi/vcmi&wesnoth/wesnoth&0ad/0ad&warzone2100/warzone2100&freeciv/freeciv-web&Timeline)
-
-If you wish to set-up a local copy of the game for your pleasure, read our repository ["CONTRIBUTING.md"](https://github.com/FreezingMoon/AncientBeast/blob/master/CONTRIBUTING.md#github-marketing) file.  
-Or dive right into development from your browser by using this button to set up the project: [![Setup Automated](https://img.shields.io/badge/setup-automated-blue?logo=gitpod)](https://gitpod.io/#https://github.com/FreezingMoon/AncientBeast)  
-There are more ways you can help out this project, check out the ["Make Your Contribution"](https://ancientbeast.com/contribute) guide & help out!
-
-<a href="https://github.com/FreezingMoon/AncientBeast/graphs/contributors"><img src="https://opencollective.com/ancientbeast/contributors.svg?width=838&button=false" alt="Contributors"></a>
-
-### 🪙 Sponsors
-
-To get your brand featured in-game as well, [become a sponsor](https://opencollective.com/ancientbeast/contribute/sponsor-8022) to greatly support this game project!
-
-<a href="https://opencollective.com/ancientbeast/contribute/sponsor-8022"><img src="https://opencollective.com/ancientbeast/tiers/sponsor.svg?avatarHeight=70&width=838" alt="Backers"></a>
-
-### 🛡️ Backers
-
-You can [become a backer](https://opencollective.com/ancientbeast/contribute/backer-8021), supporting the development of this project financially on a monthly basis.
-
-<a href="https://opencollective.com/ancientbeast/contribute/backer-8021"><img src="https://opencollective.com/ancientbeast/tiers/backer.svg?avatarHeight=50&width=838" alt="Backers"></a>
-
-### 🩹 Helpers
-
-It's easy to [become a helper](https://opencollective.com/ancientbeast/contribute/helper-59413), pitching every month just a little bit of your money.
-
-<a href="https://opencollective.com/ancientbeast/contribute/helper-59413"><img src="https://opencollective.com/ancientbeast/tiers/helper.svg?avatarHeight=30&width=838" alt="Helpers"></a>
-
-### 🚧 License
-
-<table border=1 width=100%>
-<tr>
- <td><a href="https://FreezingMoon.org"><img src="https://raw.github.com/FreezingMoon/AncientBeast-Website/master/images/FreezingMoon.png" alt="Freezing Moon"></a></td>
- <td>Ancient Beast name and logo are trademarks of Freezing Moon.<br>Respect the developers and their work!</td>
-</tr>
-<tr>
- <td><a href="https://creativecommons.org/licenses/by-sa/4.0"><img src="https://raw.github.com/FreezingMoon/AncientBeast-Website/master/images/cc-by-sa.png" alt="CC-BY-SA 4.0"></a></td>
- <td><a href="https://creativecommons.org/licenses/by-sa/4.0">CC-BY-SA 4.0</a>: Artwork and audio can be remixed and shared under the same license,<br>provided you credit and link the project, as well as the author(s) of the respective works.</td>
-</tr>
-<tr>
- <td><a href="https://gnu.org/licenses/agpl-3.0.html"><img src="https://raw.github.com/FreezingMoon/AncientBeast-Website/master/images/agpl.png" alt="AGPL 3.0"></a></td>
- <td><a href="https://gnu.org/licenses/agpl-3.0.html">AGPL 3.0</a>: The codebase or parts of it can be remixed and shared under the same license, provided you credit and link the project.</td>
-</tr>
-</table>
+<a href="https://opencollective.com/ancientbeast/contribute/helper-59413"><img src="https://opencollective.com/ancientbeast/tiers/helper.svg?avatarHeight=30&width=838" alt="助力者"></a>
